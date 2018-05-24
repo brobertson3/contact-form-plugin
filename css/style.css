@@ -1,0 +1,7 @@
+input[type=text] {
+	cursor: text!important;
+}
+
+input[type=email]::selection {
+	background-color: #08CAE8!important;
+}
